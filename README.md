@@ -1,4 +1,4 @@
-# Aplicacion-presentacion
+# APLICACIÓN - PRESENTACIÓN
 En este repositorio he subido una aplicación para que se tenga una pequeña idea de cómo
 programo. 
 Esta aplicación consiste en la gestión de una pequeña tienda. La aplicación está
